@@ -1,15 +1,10 @@
 import ReactPlayer from "react-player";
 import { FaCheck } from "react-icons/fa";
+import { FaRegArrowAltCircleDown } from "react-icons/fa";
 const TopSection = () => {
-    // const buttonTextChange=()=>{
-    //     document.getElementById('button1').innerText('adnan');
-    //     alert("alert");
-    // }
-
   return (
     <>
-   
-
+ 
       {/* section 2 .............. */}
 
       <section className="mx-auto py-12  begroundColor1">
